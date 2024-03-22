@@ -1,1 +1,1 @@
-# vijay
+Event management system 
